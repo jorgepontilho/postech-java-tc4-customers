@@ -36,7 +36,7 @@ Assim que o processo for concluído, tanto a aplicação quanto o banco de dados
 
 ## Documentação
 A Collection utilizada no Postman está disponível na URL:
-https://github.com/MendesMoe/java-ms-customers/blob/main/src/main/resources/PosTech_TC4.postman_collection.json
+https://github.com/jorgepontilho/postech-java-tc4-customers/blob/main/src/main/resources/PosTech_TC4.postman_collection.json
 
 A documentação detalhada da API está acessível na URL:
 http://localhost:8081/swagger-ui/index.html
